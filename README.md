@@ -438,7 +438,3 @@ public class NewMethodService implements ImageSearchService {
 - [VIP 功能说明](VIP_FEATURES.md) - VIP 会员权益介绍
 - [Stripe 支付配置](STRIPE_SETUP.md) - 支付功能配置指南
 - [项目架构概览](PROJECT_OVERVIEW.md) - 详细技术架构文档
-
-## 👨‍💻 作者
-
-<a href="https://codefather.cn">编程导航学习圈</a>
