@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "java-repo-assessment": {
+      "source": "furikuri/agent-skills",
+      "sourceType": "github",
+      "computedHash": "cf10b44dfeca446f178755da33c594c4b6b327d0670931dadbb5716a84fff9ec"
+    }
+  }
+}
